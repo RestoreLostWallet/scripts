@@ -1,0 +1,37 @@
+\% Offset=0, Hash v9 (BE)
+\x00\x06\x15\x61\|.dat
+
+\% Offset=0, Hash v9 (LE)
+\x61\x15\x06\x00\|.dat
+
+\% Offset=0, Btree v8 (BE)
+\x00\x05\x31\x62\|.dat
+
+\% Offset=0, Btree v8 (LE)
+\x62\x31\x05\x00\|.dat
+
+
+\% Offset=12, Hash v9 (BE)
+\s(12)\x00\x06\x15\x61\|.dat
+
+\% Offset=12, Hash v9 (LE)
+\s(12)\x61\x15\x06\x00\|.dat
+
+\% Offset=12, Btree v8 (BE)
+\s(12)\x00\x05\x31\x62\|.dat
+
+\% Offset=12, Btree v8 (LE)
+\s(12)\x62\x31\x05\x00\|.dat
+
+
+\% Offset=12, Older BDB #1 (BE)
+\s(12)\x00\x04\x22\x53\|.dat
+
+\% Offset=12, Older BDB #1 (LE)
+\s(12)\x53\x22\x04\x00\|.dat
+
+\% Offset=12, Older BDB #2 (BE)
+\s(12)\x00\x04\x09\x88\|.dat
+
+\% Offset=12, Older BDB #2 (LE)
+\s(12)\x88\x09\x04\x00\|.dat
